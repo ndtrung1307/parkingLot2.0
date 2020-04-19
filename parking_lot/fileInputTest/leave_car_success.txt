@@ -1,0 +1,4 @@
+create_parking_lot 2
+park KA-01-HH-1234
+park KA-01-HH-9999
+leave KA-01-HH-1234 4
