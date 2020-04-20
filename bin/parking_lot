@@ -1,0 +1,1 @@
+tsc && node parking_lot/index.js $1

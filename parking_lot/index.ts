@@ -1,6 +1,3 @@
-// import { readDataInputFromFile, processParkingLotData } from "./parkingLot.handler";
-
-console.log(process.argv);
-
-// readDataInputFromFile(process.argv[2]);
-// processParkingLotData();
+import { readDataInputFromFile, processParkingLotData } from "./parkingLot.handler";
+readDataInputFromFile(process.argv[2]);
+processParkingLotData();
