@@ -1,1 +1,1 @@
-yarn install && yarn test
+yarn install && yarn add global typescript && yarn test

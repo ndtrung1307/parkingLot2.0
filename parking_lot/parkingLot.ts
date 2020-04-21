@@ -58,10 +58,10 @@ export class ParkingLot {
     }
 
     public logStatus() {
-        console.log("Slot No.   Registration No.");
+        console.log("Slot No. Registration No.");
         for (const [key, value] of this.slots) {
             if(value) {
-                console.log(`${key}     ${value}`);
+                console.log(`${key} ${value}`);
             }
         }
     }
