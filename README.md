@@ -24,10 +24,10 @@ $ bin/parking_lot [filename].txt
 This file is a argument of the program. It contains many commands as instructions and the program will execute accordingly.
 
 ### Commands  
-• Createparkinglotofsizen:create_parking_lot {capacity}  
-• Parkacar:park{car_number}  
-• Remove(Unpark)carfrom:leave{car_number}{hours}  
-• Printstatusofparkingslot:status  
+• Create parking lot of sizen: create_parking_lot {capacity}  
+• Park a car: park {car_number}  
+• Remove (Unpark) car from: leave {car_number} {hours}  
+• Print status of parkings lot: status  
 
 
 ### Example Input file: 
