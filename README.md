@@ -50,14 +50,8 @@ Allocated slot number: 4
 Allocated slot number: 5  
 Allocated slot number: 6  
 Registration number KA-01-HH-
-3141 with Slot Number 6 is free with Charge 30 Slot No. Registration No.  
-1 KA-01-HH-1234  
-2 KA-01-HH-9999  
-3 KA-01-BB-0001  
-4 KA-01-HH-7777  
-5 KA-01-HH-2701  
-Registration number KA-01-HH-
-3141 with Slot Number 6 is free with Charge 30 Slot No. Registration No.  
+3141 with Slot Number 6 is free with Charge 30  
+Slot No. Registration No.  
 1 KA-01-HH-1234  
 2 KA-01-HH-9999  
 3 KA-01-BB-0001  
